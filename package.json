@@ -3,6 +3,7 @@
     "dev": "tsx watch src/server.ts"
   },
   "devDependencies": {
+    "@mermaid-js/mermaid-cli": "^9.1.7",
     "prima": "^0.0.1",
     "prisma-erd-generator": "^1.2.2",
     "tsx": "^3.11.0",
